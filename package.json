@@ -1,0 +1,22 @@
+{
+  "name": "comp-web-server",
+  "version": "1.0.0",
+  "description": "Main server for the company website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StreamlineSoftwareSolutions/company-website-server.git"
+  },
+  "author": "Sam Hulme, Tanner Gascon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StreamlineSoftwareSolutions/company-website-server/issues"
+  },
+  "homepage": "https://github.com/StreamlineSoftwareSolutions/company-website-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
